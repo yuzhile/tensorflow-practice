@@ -17,7 +17,7 @@
     - data management
     - tensorboard
     - multi-gpu
-     custom layer
+    - custom layer
 3. Work togother
     - Modularization
     - Project template
