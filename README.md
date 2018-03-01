@@ -1,8 +1,8 @@
 # Learning tensorflow by just one example for beginners.
 This project was designed for learning tensorflow by just one example for beginners. More specifically, it's aimmed to achive the goal as follow:
-    - Understanding the key concepts of addressing compuation in tensorflow 
-    - Implementing your machine learning, especially deep learning, model using this concepts. 
-    - Learn to debug the problem and optimize the program under the tensorflow framework.
+- Understanding the key concepts of addressing compuation in tensorflow 
+- Implementing your machine learning, especially deep learning, model using this concepts. 
+- Learn to debug the problem and optimize the program under the tensorflow framework.
 
 
 ## Table of Contents
