@@ -30,7 +30,11 @@ First the key concepts of tensorflow programming and components that constitude 
     - Modularization
     - Project template
     - Code togother
-    - Optimiazte performance
+4. Optimization
+    - speed:
+        * ```tf.data```
+        * multi-gpu
+    - accuracy
         * resnet
         * insight
 
