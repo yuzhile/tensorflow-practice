@@ -3,8 +3,8 @@
 ## Table of Contents
 
 1. The key concepts
-- Graph
-- Session
+    - Graph
+    - Session
 2. Components
 3. Work togother
 
