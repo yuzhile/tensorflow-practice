@@ -4,6 +4,9 @@ This project was designed for learning tensorflow by just one example for beginn
 - Implementing your machine learning, especially deep learning, model using this concepts. 
 - Learn to debug the problem and optimize the program under the tensorflow framework.
 
+This project implemented a face recongnition model, actually face verification model. The model was trained on the CASIA-WEFACE and tested on the LFW.
+
+First the key concepts of tensorflow programming and components that constitude the model was introduced. Then a basic model take advantages of both was implemented. Finally, the optimization was made to improve the basic model as far as both training speed and test accuracy.
 
 ## Table of Contents
 
